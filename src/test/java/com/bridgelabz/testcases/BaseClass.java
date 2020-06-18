@@ -30,14 +30,18 @@ public class BaseClass {
 	public String baseURL = readConfig.getApplicationURL();
 	public String username;
 	public String password;
+	public String adminUserName;
+	public String sellerUserName;
 	public static WebDriver driver;	
 	public static Logger logger;
-	
+
 	@Parameters("browser")
 	@BeforeClass
 	public void setup(String br) throws InterruptedException {
 		username = readConfig.getEmail();
 		password = readConfig.getPassword();
+		adminUserName = readConfig.getAdminEmail();
+		sellerUserName = readConfig.getSellerEmail();
 		System.out.println("Email is " + username + " password is " +  password);
 		
 		logger = Logger.getLogger("Book Store Testing ");

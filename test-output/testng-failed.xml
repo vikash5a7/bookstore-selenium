@@ -5,16 +5,13 @@
     <listener class-name="com.bridgelabz.utitlities.Reporting"/>
   </listeners>
   <test thread-count="5" name="Test(failed)">
-    <parameter name="browser" value="firefox"/>
+    <parameter name="browser" value="chrome"/>
     <classes>
       <class name="com.bridgelabz.testcases.TC_AdminLogin_01">
         <methods>
-          <include name="validatetingWithIvalidFormatedOfEmailAndPassword"/>
+          <include name="validatetingWithValidCridentialOfAdmin"/>
           <include name="setup"/>
-          <include name="validatetingWithInValidEmail"/>
           <include name="tearDown"/>
-          <include name="validatetingWithInValidCridential"/>
-          <include name="validatetingWithValidEmailButInvalidPassword"/>
         </methods>
       </class> <!-- com.bridgelabz.testcases.TC_AdminLogin_01 -->
     </classes>

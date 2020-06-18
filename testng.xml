@@ -4,7 +4,7 @@
 		<listeners>
 			<listener class-name="com.bridgelabz.utitlities.Reporting" />
 		</listeners>
-		<parameter name="browser" value="firefox" />
+		<parameter name="browser" value="chrome" />
 		<classes>
 		<!-- <class name="com.bridgelabz.testcases.TC_SearchBook_01"/> -->
 		 <class name="com.bridgelabz.testcases.TC_AdminLogin_01" /> 

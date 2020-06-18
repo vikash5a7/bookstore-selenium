@@ -25,13 +25,13 @@ public class UserLogin {
 	@FindBy(id = "loginBtn")
 	WebElement btnUserLogin;
 	@CacheLookup
-	@FindBy(xpath = "//mat-radio-button[@id='mat-radio-2']//div[@class='mat-radio-outer-circle']")
+	@FindBy(id = "userRadioBtn")
 	WebElement userLoginRadioButton;
 	
-	@FindBy(xpath = "//mat-radio-button[@id='mat-radio-3']//div[@class='mat-radio-outer-circle']")
+	@FindBy(id = "sellerRadioBtn")
 	WebElement sellerLoginRadioButton;
 	
-	@FindBy(xpath = "//mat-radio-button[@id='mat-radio-4']//div[@class='mat-radio-outer-circle']")
+	@FindBy(id = "adminRadioBtn")
 	WebElement adminLoginRadioButton;
 	
 	@FindBy(className ="profile")

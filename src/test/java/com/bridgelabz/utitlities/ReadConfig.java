@@ -29,6 +29,14 @@ public class ReadConfig {
 	{
 		return pro.getProperty("email");
 	}
+	public String getAdminEmail()
+	{
+		return pro.getProperty("adminEmail");
+	}
+	public String getSellerEmail()
+	{
+		return pro.getProperty("sellerEmail");
+	}
 	
 	public String getPassword()
 	{
@@ -45,6 +53,7 @@ public class ReadConfig {
 	String iepath=pro.getProperty("iepath");
 	return iepath;
 	}
+	
 	
 	public String getFirefoxPath()
 	{
