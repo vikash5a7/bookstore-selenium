@@ -6,9 +6,7 @@
 		</listeners>
 		<parameter name="browser" value="chrome" />
 		<classes>
-		<!-- <class name="com.bridgelabz.testcases.TC_SearchBook_01"/> -->
-		 <class name="com.bridgelabz.testcases.TC_AdminLogin_01" /> 
-	<!--	<class name="com.bridgelabz.testcases.TC_AddBook_01" /> -->
+		 <class name="com.bridgelabz.testcases.TC_Login_01" /> 
 		</classes>
 	</test>
 </suite>

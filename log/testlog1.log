@@ -118,3 +118,74 @@
 2020-06-18 22:59:40,361 [main] INFO Book Store Testing  - User password entered vikash1
 2020-06-18 22:59:40,470 [main] INFO Book Store Testing  - click on radio button 
 2020-06-18 22:59:45,622 [main] INFO Book Store Testing  - test case Passed....
+2020-06-18 23:13:51,661 [main] INFO Book Store Testing  - ********* admin Login As Seller *************
+2020-06-18 23:13:51,700 [main] INFO Book Store Testing  - Email---nirajan@gmail.compassword====vikash1
+2020-06-18 23:13:51,700 [main] INFO Book Store Testing  - ********* starting TC_AdminLogin_01 *************
+2020-06-18 23:13:55,145 [main] INFO Book Store Testing  - User email entered nirajan@gmail.com
+2020-06-18 23:13:55,299 [main] INFO Book Store Testing  - User password entered vikash1
+2020-06-18 23:13:55,410 [main] INFO Book Store Testing  - click on radio button 
+2020-06-18 23:14:00,553 [main] INFO Book Store Testing  - test case failed....
+2020-06-18 23:14:00,992 [main] INFO Book Store Testing  - Capture Screen sort name isloginFailed3134
+2020-06-18 23:14:01,045 [main] INFO Book Store Testing  - ********* admin Login As User cridential *************
+2020-06-18 23:14:01,047 [main] INFO Book Store Testing  - Email---nirajan@gmail.compassword====vikash1
+2020-06-18 23:14:01,048 [main] INFO Book Store Testing  - ********* starting TC_AdminLogin_01 *************
+2020-06-18 23:14:02,492 [main] INFO Book Store Testing  - User email entered nirajan@gmail.com
+2020-06-18 23:14:02,808 [main] INFO Book Store Testing  - User password entered vikash1
+2020-06-18 23:14:02,971 [main] INFO Book Store Testing  - click on radio button 
+2020-06-18 23:14:08,114 [main] INFO Book Store Testing  - test case Passed....
+2020-06-18 23:14:11,657 [main] INFO Book Store Testing  - ********* login As User As Seller cridential *************
+2020-06-18 23:14:11,663 [main] INFO Book Store Testing  - Email---vikash5a7@gmail.compassword====vikash1
+2020-06-18 23:14:11,665 [main] INFO Book Store Testing  - ********* starting TC_AdminLogin_01 *************
+2020-06-18 23:14:12,937 [main] INFO Book Store Testing  - User email entered vikash5a7@gmail.com
+2020-06-18 23:14:13,085 [main] INFO Book Store Testing  - User password entered vikash1
+2020-06-18 23:14:13,167 [main] INFO Book Store Testing  - click on radio button 
+2020-06-18 23:14:18,382 [main] INFO Book Store Testing  - test case failed....
+2020-06-18 23:14:18,730 [main] INFO Book Store Testing  - Capture Screen sort name isloginFailed0618
+2020-06-18 23:14:18,735 [main] INFO Book Store Testing  - ********* login User As Admin cridential *************
+2020-06-18 23:14:18,736 [main] INFO Book Store Testing  - Email---vikash5a7@gmail.compassword====vikash1
+2020-06-18 23:14:18,736 [main] INFO Book Store Testing  - ********* starting TC_AdminLogin_01 *************
+2020-06-18 23:14:19,779 [main] INFO Book Store Testing  - User email entered vikash5a7@gmail.com
+2020-06-18 23:14:19,965 [main] INFO Book Store Testing  - User password entered vikash1
+2020-06-18 23:14:20,097 [main] INFO Book Store Testing  - click on radio button 
+2020-06-18 23:14:25,308 [main] INFO Book Store Testing  - test case failed....
+2020-06-18 23:14:25,629 [main] INFO Book Store Testing  - Capture Screen sort name isloginFailed2983
+2020-06-18 23:14:25,638 [main] INFO Book Store Testing  - ********* admin Login As Seller *************
+2020-06-18 23:14:25,639 [main] INFO Book Store Testing  - Email---brijesh@gmail.compassword====vikash1
+2020-06-18 23:14:25,640 [main] INFO Book Store Testing  - ********* starting TC_AdminLogin_01 *************
+2020-06-18 23:14:26,536 [main] INFO Book Store Testing  - User email entered brijesh@gmail.com
+2020-06-18 23:14:26,709 [main] INFO Book Store Testing  - User password entered vikash1
+2020-06-18 23:14:26,903 [main] INFO Book Store Testing  - click on radio button 
+2020-06-18 23:14:32,103 [main] INFO Book Store Testing  - test case failed....
+2020-06-18 23:14:32,433 [main] INFO Book Store Testing  - Capture Screen sort name isloginFailed4086
+2020-06-18 23:14:32,443 [main] INFO Book Store Testing  - ********* admin Login As Seller *************
+2020-06-18 23:14:32,444 [main] INFO Book Store Testing  - Email---brijesh@gmail.compassword====vikash1
+2020-06-18 23:14:32,444 [main] INFO Book Store Testing  - ********* starting TC_AdminLogin_01 *************
+2020-06-18 23:14:33,250 [main] INFO Book Store Testing  - User email entered brijesh@gmail.com
+2020-06-18 23:14:33,393 [main] INFO Book Store Testing  - User password entered vikash1
+2020-06-18 23:14:33,519 [main] INFO Book Store Testing  - click on radio button 
+2020-06-18 23:14:38,765 [main] INFO Book Store Testing  - test case failed....
+2020-06-18 23:14:39,091 [main] INFO Book Store Testing  - Capture Screen sort name isloginFailed3827
+2020-06-18 23:14:39,097 [main] INFO Book Store Testing  - ********* Login with valid cridential *************
+2020-06-18 23:14:39,097 [main] INFO Book Store Testing  - email and password is setting from properties files
+2020-06-18 23:14:39,098 [main] INFO Book Store Testing  - Email---vikash5a7@gmail.compassword====vikash1
+2020-06-18 23:14:39,098 [main] INFO Book Store Testing  - ********* starting TC_AdminLogin_01 *************
+2020-06-18 23:14:39,954 [main] INFO Book Store Testing  - User email entered vikash5a7@gmail.com
+2020-06-18 23:14:40,097 [main] INFO Book Store Testing  - User password entered vikash1
+2020-06-18 23:14:40,228 [main] INFO Book Store Testing  - click on radio button 
+2020-06-18 23:14:45,394 [main] INFO Book Store Testing  - test case Passed....
+2020-06-18 23:14:48,781 [main] INFO Book Store Testing  - ********* Login with valid cridential of Admin *************
+2020-06-18 23:14:48,781 [main] INFO Book Store Testing  - email and password is setting from properties files
+2020-06-18 23:14:48,782 [main] INFO Book Store Testing  - Email---nirajan@gmail.compassword====vikash1
+2020-06-18 23:14:48,782 [main] INFO Book Store Testing  - ********* starting TC_AdminLogin_01 *************
+2020-06-18 23:14:49,578 [main] INFO Book Store Testing  - User email entered nirajan@gmail.com
+2020-06-18 23:14:49,737 [main] INFO Book Store Testing  - User password entered vikash1
+2020-06-18 23:14:49,873 [main] INFO Book Store Testing  - click on radio button 
+2020-06-18 23:14:55,015 [main] INFO Book Store Testing  - test case Passed....
+2020-06-18 23:14:58,407 [main] INFO Book Store Testing  - ********* Login with valid cridential of seller *************
+2020-06-18 23:14:58,408 [main] INFO Book Store Testing  - email and password is setting from properties files
+2020-06-18 23:14:58,410 [main] INFO Book Store Testing  - Email---brijesh@gmail.compassword====vikash1
+2020-06-18 23:14:58,411 [main] INFO Book Store Testing  - ********* starting TC_AdminLogin_01 *************
+2020-06-18 23:14:59,545 [main] INFO Book Store Testing  - User email entered brijesh@gmail.com
+2020-06-18 23:14:59,698 [main] INFO Book Store Testing  - User password entered vikash1
+2020-06-18 23:14:59,792 [main] INFO Book Store Testing  - click on radio button 
+2020-06-18 23:15:04,962 [main] INFO Book Store Testing  - test case Passed....

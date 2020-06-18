@@ -7,13 +7,17 @@
   <test thread-count="5" name="Test(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.bridgelabz.testcases.TC_AdminLogin_01">
+      <class name="com.bridgelabz.testcases.TC_Login_01">
         <methods>
-          <include name="validatetingWithValidCridentialOfAdmin"/>
+          <include name="loginUserAsAdmin"/>
+          <include name="loginAsUserAsSeller"/>
           <include name="setup"/>
+          <include name="sellerLoginAsAdmin"/>
           <include name="tearDown"/>
+          <include name="adminLoginAsSeller"/>
+          <include name="sellerLoginAsUser"/>
         </methods>
-      </class> <!-- com.bridgelabz.testcases.TC_AdminLogin_01 -->
+      </class> <!-- com.bridgelabz.testcases.TC_Login_01 -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
