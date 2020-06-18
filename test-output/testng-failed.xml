@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="com.bridgelabz.utitlities.Reporting"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="com.bridgelabz.testcases.TC_AdminLogin_01">
+        <methods>
+          <include name="validatetingWithIvalidFormatedOfEmailAndPassword"/>
+          <include name="setup"/>
+          <include name="validatetingWithInValidEmail"/>
+          <include name="tearDown"/>
+          <include name="validatetingWithInValidCridential"/>
+          <include name="validatetingWithValidEmailButInvalidPassword"/>
+        </methods>
+      </class> <!-- com.bridgelabz.testcases.TC_AdminLogin_01 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

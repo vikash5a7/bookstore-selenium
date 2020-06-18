@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite">
+	<test thread-count="5" name="Test">
+		<listeners>
+			<listener class-name="com.bridgelabz.utitlities.Reporting" />
+		</listeners>
+		<parameter name="browser" value="firefox" />
+		<classes>
+		<!-- <class name="com.bridgelabz.testcases.TC_SearchBook_01"/> -->
+		 <class name="com.bridgelabz.testcases.TC_AdminLogin_01" /> 
+	<!--	<class name="com.bridgelabz.testcases.TC_AddBook_01" /> -->
+		</classes>
+	</test>
+</suite>
