@@ -38,7 +38,7 @@ public class Reporting extends TestListenerAdapter
 		extent.setSystemInfo("Environemnt","QA");
 		extent.setSystemInfo("user","Vikash kumar");
 		
-		htmlReporter.config().setDocumentTitle("Fundoo Notes Testing "); // Tile of report
+		htmlReporter.config().setDocumentTitle("Bookstore Testing "); // Tile of report
 		htmlReporter.config().setReportName("Functional Test Automation Report"); // name of the report
 		htmlReporter.config().setTheme(Theme.DARK);
 	}

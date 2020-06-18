@@ -1098,3 +1098,189 @@
 2020-06-18 23:14:59,698 - Book Store Testing  -INFO - User password entered vikash1
 2020-06-18 23:14:59,792 - Book Store Testing  -INFO - click on radio button 
 2020-06-18 23:15:04,962 - Book Store Testing  -INFO - test case Passed....
+2020-06-18 23:26:20,318 - Book Store Testing  -INFO - ********* admin Login As Seller *************
+2020-06-18 23:26:20,357 - Book Store Testing  -INFO - Email---nirajan@gmail.compassword====vikash1
+2020-06-18 23:26:20,357 - Book Store Testing  -INFO - ********* starting TC_AdminLogin_01 *************
+2020-06-18 23:26:22,998 - Book Store Testing  -INFO - User email entered nirajan@gmail.com
+2020-06-18 23:26:23,171 - Book Store Testing  -INFO - User password entered vikash1
+2020-06-18 23:26:23,309 - Book Store Testing  -INFO - click on radio button 
+2020-06-18 23:26:28,495 - Book Store Testing  -INFO - test case failed....
+2020-06-18 23:26:28,855 - Book Store Testing  -INFO - Capture Screen sort name isloginFailed2112
+2020-06-18 23:26:28,902 - Book Store Testing  -INFO - ********* admin Login As User cridential *************
+2020-06-18 23:26:28,904 - Book Store Testing  -INFO - Email---nirajan@gmail.compassword====vikash1
+2020-06-18 23:26:28,905 - Book Store Testing  -INFO - ********* starting TC_AdminLogin_01 *************
+2020-06-18 23:26:29,886 - Book Store Testing  -INFO - User email entered nirajan@gmail.com
+2020-06-18 23:26:30,044 - Book Store Testing  -INFO - User password entered vikash1
+2020-06-18 23:26:30,202 - Book Store Testing  -INFO - click on radio button 
+2020-06-18 23:26:35,323 - Book Store Testing  -INFO - test case failed....
+2020-06-18 23:26:35,874 - Book Store Testing  -INFO - Capture Screen sort name isloginFailed4899
+2020-06-18 23:26:35,901 - Book Store Testing  -INFO - ********* login As User As Seller cridential *************
+2020-06-18 23:26:35,904 - Book Store Testing  -INFO - Email---vikash5a7@gmail.compassword====vikash1
+2020-06-18 23:26:35,905 - Book Store Testing  -INFO - ********* starting TC_AdminLogin_01 *************
+2020-06-18 23:26:37,088 - Book Store Testing  -INFO - User email entered vikash5a7@gmail.com
+2020-06-18 23:26:37,247 - Book Store Testing  -INFO - User password entered vikash1
+2020-06-18 23:26:37,351 - Book Store Testing  -INFO - click on radio button 
+2020-06-18 23:26:42,575 - Book Store Testing  -INFO - test case failed....
+2020-06-18 23:26:42,907 - Book Store Testing  -INFO - Capture Screen sort name isloginFailed5487
+2020-06-18 23:26:42,913 - Book Store Testing  -INFO - ********* login User As Admin cridential *************
+2020-06-18 23:26:42,913 - Book Store Testing  -INFO - Email---vikash5a7@gmail.compassword====vikash1
+2020-06-18 23:26:42,914 - Book Store Testing  -INFO - ********* starting TC_AdminLogin_01 *************
+2020-06-18 23:26:43,778 - Book Store Testing  -INFO - User email entered vikash5a7@gmail.com
+2020-06-18 23:26:43,931 - Book Store Testing  -INFO - User password entered vikash1
+2020-06-18 23:26:44,019 - Book Store Testing  -INFO - click on radio button 
+2020-06-18 23:26:49,311 - Book Store Testing  -INFO - test case failed....
+2020-06-18 23:26:49,628 - Book Store Testing  -INFO - Capture Screen sort name isloginFailed5691
+2020-06-18 23:26:49,635 - Book Store Testing  -INFO - ********* admin Login As Seller *************
+2020-06-18 23:26:49,636 - Book Store Testing  -INFO - Email---brijesh@gmail.compassword====vikash1
+2020-06-18 23:26:49,636 - Book Store Testing  -INFO - ********* starting TC_AdminLogin_01 *************
+2020-06-18 23:26:50,502 - Book Store Testing  -INFO - User email entered brijesh@gmail.com
+2020-06-18 23:26:50,675 - Book Store Testing  -INFO - User password entered vikash1
+2020-06-18 23:26:50,750 - Book Store Testing  -INFO - click on radio button 
+2020-06-18 23:26:55,973 - Book Store Testing  -INFO - test case failed....
+2020-06-18 23:26:56,298 - Book Store Testing  -INFO - Capture Screen sort name isloginFailed6570
+2020-06-18 23:26:56,302 - Book Store Testing  -INFO - ********* admin Login As Seller *************
+2020-06-18 23:26:56,303 - Book Store Testing  -INFO - Email---brijesh@gmail.compassword====vikash1
+2020-06-18 23:26:56,303 - Book Store Testing  -INFO - ********* starting TC_AdminLogin_01 *************
+2020-06-18 23:26:57,046 - Book Store Testing  -INFO - User email entered brijesh@gmail.com
+2020-06-18 23:26:57,209 - Book Store Testing  -INFO - User password entered vikash1
+2020-06-18 23:26:57,381 - Book Store Testing  -INFO - click on radio button 
+2020-06-18 23:27:02,628 - Book Store Testing  -INFO - test case failed....
+2020-06-18 23:27:02,937 - Book Store Testing  -INFO - Capture Screen sort name isloginFailed4530
+2020-06-18 23:27:02,940 - Book Store Testing  -INFO - ********* Login with InValid cridential *************
+2020-06-18 23:27:02,941 - Book Store Testing  -INFO - Email---NymcvHlpLb@gmail.compassword====bOmVgOfbv
+2020-06-18 23:27:02,941 - Book Store Testing  -INFO - ********* starting TC_AdminLogin_01 *************
+2020-06-18 23:27:04,122 - Book Store Testing  -INFO - User email entered NymcvHlpLb@gmail.com
+2020-06-18 23:27:04,322 - Book Store Testing  -INFO - User password entered bOmVgOfbv
+2020-06-18 23:27:04,392 - Book Store Testing  -INFO - click on radio button 
+2020-06-18 23:27:09,603 - Book Store Testing  -INFO - test case failed....
+2020-06-18 23:27:09,920 - Book Store Testing  -INFO - Capture Screen sort name isloginFailed8207
+2020-06-18 23:27:09,926 - Book Store Testing  -INFO - ********* Login with valid Email But Invalid password *************
+2020-06-18 23:27:09,927 - Book Store Testing  -INFO - Email---vikash5a7@gmail.compassword====KiYXVVCETCGX
+2020-06-18 23:27:09,927 - Book Store Testing  -INFO - ********* starting TC_AdminLogin_01 *************
+2020-06-18 23:27:10,686 - Book Store Testing  -INFO - User email entered vikash5a7@gmail.com
+2020-06-18 23:27:10,888 - Book Store Testing  -INFO - User password entered KiYXVVCETCGX
+2020-06-18 23:27:11,048 - Book Store Testing  -INFO - click on radio button 
+2020-06-18 23:27:16,170 - Book Store Testing  -INFO - test case failed....
+2020-06-18 23:27:16,497 - Book Store Testing  -INFO - Capture Screen sort name isloginFailed1148
+2020-06-18 23:27:16,505 - Book Store Testing  -INFO - ********* Login with InValid Formate Email and password *************
+2020-06-18 23:27:16,506 - Book Store Testing  -INFO - Email---nullpassword====null
+2020-06-18 23:27:16,506 - Book Store Testing  -INFO - ********* starting TC_AdminLogin_01 *************
+2020-06-18 23:27:17,181 - Book Store Testing  -INFO - ********* Login with valid cridential *************
+2020-06-18 23:27:17,181 - Book Store Testing  -INFO - email and password is setting from properties files
+2020-06-18 23:27:17,182 - Book Store Testing  -INFO - Email---vikash5a7@gmail.compassword====vikash1
+2020-06-18 23:27:17,182 - Book Store Testing  -INFO - ********* starting TC_AdminLogin_01 *************
+2020-06-18 23:27:17,884 - Book Store Testing  -INFO - User email entered vikash5a7@gmail.com
+2020-06-18 23:27:18,038 - Book Store Testing  -INFO - User password entered vikash1
+2020-06-18 23:27:18,247 - Book Store Testing  -INFO - click on radio button 
+2020-06-18 23:27:23,435 - Book Store Testing  -INFO - test case Passed....
+2020-06-18 23:27:26,894 - Book Store Testing  -INFO - ********* Login with valid cridential of Admin *************
+2020-06-18 23:27:26,895 - Book Store Testing  -INFO - email and password is setting from properties files
+2020-06-18 23:27:26,897 - Book Store Testing  -INFO - Email---nirajan@gmail.compassword====vikash1
+2020-06-18 23:27:26,898 - Book Store Testing  -INFO - ********* starting TC_AdminLogin_01 *************
+2020-06-18 23:27:28,384 - Book Store Testing  -INFO - User email entered nirajan@gmail.com
+2020-06-18 23:27:28,548 - Book Store Testing  -INFO - User password entered vikash1
+2020-06-18 23:27:28,705 - Book Store Testing  -INFO - click on radio button 
+2020-06-18 23:27:33,919 - Book Store Testing  -INFO - test case Passed....
+2020-06-18 23:27:37,329 - Book Store Testing  -INFO - ********* Login with valid cridential of seller *************
+2020-06-18 23:27:37,330 - Book Store Testing  -INFO - email and password is setting from properties files
+2020-06-18 23:27:37,332 - Book Store Testing  -INFO - Email---brijesh@gmail.compassword====vikash1
+2020-06-18 23:27:37,333 - Book Store Testing  -INFO - ********* starting TC_AdminLogin_01 *************
+2020-06-18 23:27:38,547 - Book Store Testing  -INFO - User email entered brijesh@gmail.com
+2020-06-18 23:27:38,695 - Book Store Testing  -INFO - User password entered vikash1
+2020-06-18 23:27:38,887 - Book Store Testing  -INFO - click on radio button 
+2020-06-18 23:27:44,039 - Book Store Testing  -INFO - test case Passed....
+2020-06-18 23:27:47,463 - Book Store Testing  -INFO - ********* Login with InValid Email but valid password *************
+2020-06-18 23:27:47,468 - Book Store Testing  -INFO - Email---OKDSDmMSRKurkvLwZmIQGrPdzlgQtlstQfbknrMntnhNWuYqVqNqoQkEFasoUNcPXQoMxSDirDbCeERAYQwrPHNQjOfrujmGYxSWxXcPAFWfpytSUwjOelwzexbLurzuemRODatLWhBtJLaKyOsculECFZVPjNrsOBMAojuOOHQmPJDbOezNDSHQHhDNggvWZrOqWPjXnKQoWnUTAxfEDZunJnFMYATXpiGBrXYHKRFNyIQXNCwnSiOyTrvgYJomfkIdMLCOTVGoqATExnmeSYOssBdaIRdldpjrMQxAUAxlUdeXaBMgcJXicljEMDPrvFqBwbKIfgOcYlCRRDGytORwdyHVlrLGpoUzMgvWiWxjgsGWWGTfazVLpAxRgjLODthEHAYUhXzVDdDbxifNQUfEYAPoluZRcABLUmutSSeqysRHrALnYfTsenxnqcqwazeiFcrHSaGvbjCbUEsRAzVJQZeyoKRbUPDwseXDlYnlxcjZSSLd@gmail.compassword====aviiqjKqCegf
+2020-06-18 23:27:47,469 - Book Store Testing  -INFO - ********* starting TC_AdminLogin_01 *************
+2020-06-18 23:27:52,583 - Book Store Testing  -INFO - User email entered OKDSDmMSRKurkvLwZmIQGrPdzlgQtlstQfbknrMntnhNWuYqVqNqoQkEFasoUNcPXQoMxSDirDbCeERAYQwrPHNQjOfrujmGYxSWxXcPAFWfpytSUwjOelwzexbLurzuemRODatLWhBtJLaKyOsculECFZVPjNrsOBMAojuOOHQmPJDbOezNDSHQHhDNggvWZrOqWPjXnKQoWnUTAxfEDZunJnFMYATXpiGBrXYHKRFNyIQXNCwnSiOyTrvgYJomfkIdMLCOTVGoqATExnmeSYOssBdaIRdldpjrMQxAUAxlUdeXaBMgcJXicljEMDPrvFqBwbKIfgOcYlCRRDGytORwdyHVlrLGpoUzMgvWiWxjgsGWWGTfazVLpAxRgjLODthEHAYUhXzVDdDbxifNQUfEYAPoluZRcABLUmutSSeqysRHrALnYfTsenxnqcqwazeiFcrHSaGvbjCbUEsRAzVJQZeyoKRbUPDwseXDlYnlxcjZSSLd@gmail.com
+2020-06-18 23:27:52,772 - Book Store Testing  -INFO - User password entered aviiqjKqCegf
+2020-06-18 23:27:52,856 - Book Store Testing  -INFO - click on radio button 
+2020-06-18 23:27:57,947 - Book Store Testing  -INFO - test case failed....
+2020-06-18 23:27:58,297 - Book Store Testing  -INFO - Capture Screen sort name isloginFailed8061
+2020-06-19 00:06:17,893 - Book Store Testing  -INFO - **** Registration Checking with all the valid input ************
+2020-06-19 00:06:21,575 - Book Store Testing  -INFO - Url is opened
+2020-06-19 00:06:21,614 - Book Store Testing  -INFO - Redirecting to the registration page..
+2020-06-19 00:06:21,817 - Book Store Testing  -INFO - Entered user first name
+2020-06-19 00:06:22,075 - Book Store Testing  -INFO - Entered user email address
+2020-06-19 00:06:22,270 - Book Store Testing  -INFO - Entered user last password
+2020-06-19 00:06:22,433 - Book Store Testing  -INFO - Entered user confirmation password
+2020-06-19 00:06:22,601 - Book Store Testing  -INFO - Entered user phone number
+2020-06-19 00:07:45,094 - Book Store Testing  -INFO - **** Registration Checking with all the valid input ************
+2020-06-19 00:07:51,353 - Book Store Testing  -INFO - Url is opened
+2020-06-19 00:07:51,388 - Book Store Testing  -INFO - Redirecting to the registration page..
+2020-06-19 00:07:51,632 - Book Store Testing  -INFO - Entered user first name
+2020-06-19 00:07:51,947 - Book Store Testing  -INFO - Entered user email address
+2020-06-19 00:07:52,224 - Book Store Testing  -INFO - Entered user last password
+2020-06-19 00:07:52,403 - Book Store Testing  -INFO - Entered user confirmation password
+2020-06-19 00:07:52,629 - Book Store Testing  -INFO - Entered user phone number
+2020-06-19 00:07:52,776 - Book Store Testing  -INFO - checking registration button status
+2020-06-19 00:07:57,996 - Book Store Testing  -INFO - test case failed....
+2020-06-19 00:07:58,367 - Book Store Testing  -INFO - Capture Screen sort name isRegistraionFailed8695
+2020-06-19 00:12:41,624 - Book Store Testing  -INFO - **** Registration Checking with all the valid input ************
+2020-06-19 00:12:44,844 - Book Store Testing  -INFO - Url is opened
+2020-06-19 00:12:44,887 - Book Store Testing  -INFO - Redirecting to the registration page..
+2020-06-19 00:12:45,139 - Book Store Testing  -INFO - Entered user first name
+2020-06-19 00:12:45,470 - Book Store Testing  -INFO - Entered user email address
+2020-06-19 00:12:45,681 - Book Store Testing  -INFO - Entered user last password
+2020-06-19 00:12:45,860 - Book Store Testing  -INFO - Entered user confirmation password
+2020-06-19 00:12:46,060 - Book Store Testing  -INFO - Entered user phone number
+2020-06-19 00:12:46,239 - Book Store Testing  -INFO - checking registration button status
+2020-06-19 00:12:56,417 - Book Store Testing  -INFO - User Detailes of succefully registration..ZRGxx ZRGxx YqTQVrAX@gmail.com
+2020-06-19 00:12:56,418 - Book Store Testing  -INFO - test case passed....
+2020-06-19 00:12:57,411 - Book Store Testing  -INFO - **** End Registration with all the valid input ************
+2020-06-19 00:14:50,205 - Book Store Testing  -INFO - **** Registration with all the Invalid input ************
+2020-06-19 00:14:53,358 - Book Store Testing  -INFO - Url is opened
+2020-06-19 00:14:53,398 - Book Store Testing  -INFO - Redirecting to the registration page..
+2020-06-19 00:14:53,560 - Book Store Testing  -INFO - Entered user first name
+2020-06-19 00:14:53,845 - Book Store Testing  -INFO - Entered user email address
+2020-06-19 00:14:53,983 - Book Store Testing  -INFO - Entered user last password
+2020-06-19 00:14:54,164 - Book Store Testing  -INFO - Entered user confirmation password
+2020-06-19 00:14:54,347 - Book Store Testing  -INFO - Entered user phone number
+2020-06-19 00:14:54,484 - Book Store Testing  -INFO - checking registration button status
+2020-06-19 00:14:56,532 - Book Store Testing  -INFO - test case failed....
+2020-06-19 00:14:56,960 - Book Store Testing  -INFO - Capture Screen sort name isRegistraionFailed3799
+2020-06-19 00:14:57,019 - Book Store Testing  -INFO - **** Registration Checking with not match password and confimation password ************
+2020-06-19 00:14:57,867 - Book Store Testing  -INFO - Url is opened
+2020-06-19 00:14:57,869 - Book Store Testing  -INFO - Redirecting to the registration page..
+2020-06-19 00:14:58,093 - Book Store Testing  -INFO - Entered user first name
+2020-06-19 00:14:58,412 - Book Store Testing  -INFO - Entered user email address
+2020-06-19 00:14:58,586 - Book Store Testing  -INFO - Entered user last password
+2020-06-19 00:14:58,777 - Book Store Testing  -INFO - Entered user confirmation password
+2020-06-19 00:14:59,027 - Book Store Testing  -INFO - Entered user phone number
+2020-06-19 00:14:59,220 - Book Store Testing  -INFO - checking registration button status
+2020-06-19 00:15:01,243 - Book Store Testing  -INFO - test case failed....
+2020-06-19 00:15:01,959 - Book Store Testing  -INFO - Capture Screen sort name isRegistraionFailed1617
+2020-06-19 00:15:01,972 - Book Store Testing  -INFO - **** Registration Checking with all the valid input ************
+2020-06-19 00:15:02,772 - Book Store Testing  -INFO - Url is opened
+2020-06-19 00:15:02,773 - Book Store Testing  -INFO - Redirecting to the registration page..
+2020-06-19 00:15:03,011 - Book Store Testing  -INFO - Entered user first name
+2020-06-19 00:15:03,301 - Book Store Testing  -INFO - Entered user email address
+2020-06-19 00:15:03,511 - Book Store Testing  -INFO - Entered user last password
+2020-06-19 00:15:03,745 - Book Store Testing  -INFO - Entered user confirmation password
+2020-06-19 00:15:03,946 - Book Store Testing  -INFO - Entered user phone number
+2020-06-19 00:15:04,129 - Book Store Testing  -INFO - checking registration button status
+2020-06-19 00:15:14,312 - Book Store Testing  -INFO - User Detailes of succefully registration..cpLnZ cpLnZ GCFeOwOa@gmail.com
+2020-06-19 00:15:14,313 - Book Store Testing  -INFO - test case passed....
+2020-06-19 00:15:15,275 - Book Store Testing  -INFO - **** End Registration with all the valid input ************
+2020-06-19 00:15:15,277 - Book Store Testing  -INFO - **** Registration Checking with already present user ************
+2020-06-19 00:15:15,851 - Book Store Testing  -INFO - Url is opened
+2020-06-19 00:15:15,852 - Book Store Testing  -INFO - Redirecting to the registration page..
+2020-06-19 00:15:16,026 - Book Store Testing  -INFO - Entered user first name
+2020-06-19 00:15:16,413 - Book Store Testing  -INFO - Entered user email address
+2020-06-19 00:15:16,690 - Book Store Testing  -INFO - Entered user last password
+2020-06-19 00:15:16,954 - Book Store Testing  -INFO - Entered user confirmation password
+2020-06-19 00:15:17,208 - Book Store Testing  -INFO - Entered user phone number
+2020-06-19 00:15:17,301 - Book Store Testing  -INFO - checking registration button status
+2020-06-19 00:15:27,444 - Book Store Testing  -INFO - test case failed....
+2020-06-19 00:15:27,834 - Book Store Testing  -INFO - Capture Screen sort name isRegistraionFailed5232
+2020-06-19 00:15:27,841 - Book Store Testing  -INFO - **** Registration with all the Invalid first name and last name ************
+2020-06-19 00:15:29,084 - Book Store Testing  -INFO - Url is opened
+2020-06-19 00:15:29,085 - Book Store Testing  -INFO - Redirecting to the registration page..
+2020-06-19 00:15:29,216 - Book Store Testing  -INFO - Entered user first name
+2020-06-19 00:15:29,535 - Book Store Testing  -INFO - Entered user email address
+2020-06-19 00:15:29,692 - Book Store Testing  -INFO - Entered user last password
+2020-06-19 00:15:29,846 - Book Store Testing  -INFO - Entered user confirmation password
+2020-06-19 00:15:30,047 - Book Store Testing  -INFO - Entered user phone number
+2020-06-19 00:15:30,188 - Book Store Testing  -INFO - checking registration button status
+2020-06-19 00:15:32,249 - Book Store Testing  -INFO - test case failed....
+2020-06-19 00:15:32,577 - Book Store Testing  -INFO - Capture Screen sort name isRegistraionFailed9937

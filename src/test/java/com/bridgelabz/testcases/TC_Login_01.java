@@ -15,7 +15,7 @@ public class TC_Login_01 extends BaseClass {
 		logger.info("********* Login with valid cridential *************");
 		logger.info("email and password is setting from properties files");
 		String userType ="user";
-		adminLogin(username, password,userType);
+		login(username, password,userType);
 	}
 	
 	@Test
@@ -23,7 +23,7 @@ public class TC_Login_01 extends BaseClass {
 		logger.info("********* Login with valid cridential of seller *************");
 		logger.info("email and password is setting from properties files");
 		String userType ="seller";
-		adminLogin(sellerUserName, password,userType);
+		login(sellerUserName, password,userType);
 	}
 	
 	
@@ -32,49 +32,80 @@ public class TC_Login_01 extends BaseClass {
 		logger.info("********* Login with valid cridential of Admin *************");
 		logger.info("email and password is setting from properties files");
 		String userType ="admin";
-		adminLogin(adminUserName, password,userType);
+		login(adminUserName, password,userType);
 	}
 	
 	@Test
 	public void loginAsUserAsSeller() throws InterruptedException, IOException {
 		logger.info("********* login As User As Seller cridential *************");
 		String userType ="seller";
-		adminLogin(username, password,userType);
+		login(username, password,userType);
 	}
 	@Test
 	public void loginUserAsAdmin() throws InterruptedException, IOException {
 		logger.info("********* login User As Admin cridential *************");
 		String userType ="admin";
-		adminLogin(username, password,userType);
+		login(username, password,userType);
 	}
 	
 	@Test
 	public void adminLoginAsUser() throws InterruptedException, IOException {
 		logger.info("********* admin Login As User cridential *************");
-		String userType ="admin";
-		adminLogin(adminUserName, password,userType);
+		String userType ="user";
+		login(adminUserName, password,userType);
 	}
 	@Test
 	public void adminLoginAsSeller() throws InterruptedException, IOException {
 		logger.info("********* admin Login As Seller *************");
 		String userType ="seller";
-		adminLogin(adminUserName, password,userType);
+		login(adminUserName, password,userType);
 	}
 	
 	@Test
 	public void sellerLoginAsAdmin() throws InterruptedException, IOException {
 		logger.info("********* admin Login As Seller *************");
 		String userType ="admin";
-		adminLogin(sellerUserName, password,userType);
+		login(sellerUserName, password,userType);
 	}
 	@Test
 	public void sellerLoginAsUser() throws InterruptedException, IOException {
 		logger.info("********* admin Login As Seller *************");
 		String userType ="user";
-		adminLogin(sellerUserName, password,userType);
+		login(sellerUserName, password,userType);
+	}
+	@Test
+	public void validatetingWithInValidCridential() throws InterruptedException, IOException {
+		logger.info("********* Login with InValid cridential *************");
+		String UserEmmail = Util.randomestring(10) + "@gmail.com";
+		String Userpassword = Util.randomestring(9);
+		login(UserEmmail, Userpassword,"user");
 	}
 	
-	public void adminLogin(String userEmail, String userPassword, String userType) throws InterruptedException, IOException {
+	@Test
+	public void validatetingWithInValidEmail() throws InterruptedException, IOException {
+		logger.info("********* Login with valid Email But Invalid password *************");
+		String UserEmmail = username;
+		String Userpassword = Util.randomestring(12);
+		login(UserEmmail, Userpassword,"user");
+	}
+
+	@Test
+	public void validatetingWithValidEmailButInvalidPassword() throws InterruptedException, IOException {
+		logger.info("********* Login with InValid Email but valid password *************");
+		String UserEmmail = Util.randomestring(500)+"@gmail.com";
+		String Userpassword = Util.randomestring(12);
+		login(UserEmmail, Userpassword,"user");
+	}
+	
+	@Test
+	public void validatetingWithIvalidFormatedOfEmailAndPassword() throws InterruptedException, IOException {
+		logger.info("********* Login with InValid Formate Email and password *************");
+		String UserEmmail = null;
+		String Userpassword = null;
+		login(UserEmmail, Userpassword,"user");
+	}
+
+	public void login(String userEmail, String userPassword, String userType) throws InterruptedException, IOException {
 		String captureScreenSortName = "loginFailed" + Util.randomeNum(4);
 		UserLogin userLogin = new UserLogin(driver);
 		logger.info("Email---" + userEmail + "password====" + userPassword);

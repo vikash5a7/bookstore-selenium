@@ -6,7 +6,8 @@
 		</listeners>
 		<parameter name="browser" value="chrome" />
 		<classes>
-		 <class name="com.bridgelabz.testcases.TC_Login_01" /> 
+			<!--  <class name="com.bridgelabz.testcases.TC_Login_01" />  -->
+		  <class name="com.bridgelabz.testcases.TC_Registration_01" /> 
 		</classes>
 	</test>
 </suite>
